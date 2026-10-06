@@ -1,0 +1,1 @@
+from routers.agendamento_router import router

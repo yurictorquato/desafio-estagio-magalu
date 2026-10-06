@@ -1,0 +1,1 @@
+from schemas.agendamento_schema import AgendamentoCreate, AgendamentoOut

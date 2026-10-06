@@ -1,0 +1,1 @@
+from models.agendamento import Agendamento, Base
