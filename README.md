@@ -44,7 +44,7 @@ A API possui três rotas principais focadas na gestão do agendamento:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com//desafio-estagio-magalu.git
+   git clone https://github.com/yurictorquato/desafio-estagio-magalu.git
    cd desafio-estagio-magalu
    ```
 
